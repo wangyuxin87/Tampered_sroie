@@ -1,5 +1,5 @@
 # Tampered_sroie
-Dataset are available: [Ruike](https://rec.ustc.edu.cn/share/1c7a3910-da45-11ec-8f67-b9fab9728d69) passward:ikc1 or [BaiduYun](https://pan.baidu.com/s/1N4YeqBMHMdOBKD3KOrI35Q) passward:3gj9
+This is a dataset proposed for Tampered Scene Text Detection (TSTD) task. Paper is available in [Paper](http://www.infocomm-journal.com/cjnis/CN/10.11959/j.issn.2096-109x.2022035). Dataset are available: [Ruike](https://rec.ustc.edu.cn/share/1c7a3910-da45-11ec-8f67-b9fab9728d69) passward:ikc1 or [BaiduYun](https://pan.baidu.com/s/1N4YeqBMHMdOBKD3KOrI35Q) passward:3gj9. Hoping that our work will benefit the TSTD community.
 
 # Rank
 Coming soon.
