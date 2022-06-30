@@ -5,7 +5,7 @@
 ## Citation
 If you find our method useful for your reserach, please cite
 ```bash
-@article{王裕鑫:29,
+@article{wang29,
 author = {Yuxin WANG, Boqiang ZHANG, Hongtao XIE, Yongdong ZHANG},
 title = {Tampered text detection via RGB and frequency relationship modeling},
 year = {2022},
