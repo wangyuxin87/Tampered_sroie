@@ -6,8 +6,24 @@
 If you find our method useful for your reserach, please cite
 ```bash
 @article{王裕鑫:29,
+author = {Yuxin WANG, Boqiang ZHANG, Hongtao XIE, Yongdong ZHANG},
+title = {Tampered text detection via RGB and frequency relationship modeling},
+year = {2022},
+journal = {Chinese Journal of Network and Information Security},
+volume = {8},
+number = {3},
+eid = {29},
+numpages = {11},
+pages = {29},
+url = {http://www.infocomm-journal.com/cjnis/CN/abstract/article_172502.shtml},
+doi = {10.11959/j.issn.2096-109x.2022035}
+}    
+```
+or
+```bash
+@article{王裕鑫:29,
 author = {王裕鑫, 张博强, 谢洪涛, 张勇东},
-title = {基于空域与频域关系建模的篡改文本图像检测},
+title = {基于空域与频域关系建模的篡改文本图像检测(Tampered text detection via RGB and frequency relationship modeling)},
 publisher = {网络与信息安全学报},
 year = {2022},
 journal = {网络与信息安全学报},
